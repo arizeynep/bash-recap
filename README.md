@@ -26,3 +26,5 @@ Now, given just that score of 34, your program should be able to say:
     - All the allergens Tom is allergic to.
 Note: a given score may include allergens not listed above (i.e. allergens that score 256, 512, 1024, etc.). Your program should ignore those components of the score. For example, if the allergy score is 257, your program should only report the eggs (1) allergy.
 
+4. An Armstrong number is a number that is the sum of its own digits each raised to the power of the number of digits. Write some code to determine whether a number is an Armstrong number.
+
