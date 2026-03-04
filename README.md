@@ -28,3 +28,5 @@ Note: a given score may include allergens not listed above (i.e. allergens that 
 
 4. An Armstrong number is a number that is the sum of its own digits each raised to the power of the number of digits. Write some code to determine whether a number is an Armstrong number.
 
+5. Find the difference between the square of the sum and the sum of the squares of the first N natural numbers.
+
